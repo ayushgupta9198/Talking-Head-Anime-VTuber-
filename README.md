@@ -1,0 +1,2 @@
+# Talking-Head-Anime-VTuber-
+The model is based on anime animation and motion based on the activity in webcam. This model will work for both video and webcam. In this model I did multiple customaisation as add backgrounf image , video , enabling audio in webcam , side pose anime controller and most important shoulder movement which looks like body motion in real world. The results of all the customisation I have performed you can find in this model. 
